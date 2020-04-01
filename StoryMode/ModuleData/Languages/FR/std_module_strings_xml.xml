@@ -5,95 +5,95 @@
   </tags>
   <strings>
     <string id="(" text="Baldimos" />
-    <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left." />
-    <string id="3RqEmB15" text="Navigating Calradia" />
+    <string id="3nilwlcM" text="Vous êtes arrivé à {TUTORIAL_SETTLEMENT_NAME}. Pour explorer le lieu, vous pouvez entrer dans la communauté en appuyant sur le bouton surligné sur la gauche." />
+    <string id="3RqEmB15" text="Naviguer en Calradia" />
     <string id="3Y5dudW9" text="Alda" />
-    <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc." />
+    <string id="3YkpC9Nf" text="Vous pouvez filtrer les éléments grâce aux boutons situés en haut. Filtrez-les vers Autres." />
     <string id="4IZnbvlD" text="Baudein" />
-    <string id="5bYwdRFs" text="Sword Training" />
-    <string id="5M48atXU" text="You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen." />
-    <string id="7xHMIZEP" text="Practice Target" />
-    <string id="8UUV94Lq" text="Ranged Training" />
+    <string id="5bYwdRFs" text="Entraînement au sabre" />
+    <string id="5M48atXU" text="Vous avez une quête active ! Vous pouvez en savoir plus en cliquant sur le journal des quêtes en bas à gauche de votre écran." />
+    <string id="7xHMIZEP" text="Objectif d'entraînement" />
+    <string id="8UUV94Lq" text="Formation à distance" />
     <string id="8YvBapxl" text="Varic" />
-    <string id="9YqwNQPO" text="Mounted Ranged Training" />
-    <string id="ajo9KQpr" text="Beat rookie trainer" />
+    <string id="9YqwNQPO" text="Formation à distance à cheval" />
+    <string id="ajo9KQpr" text="Battre un entraîneur pour débutants" />
     <string id="at4MdVBJ" text="Fathid" />
-    <string id="atWs6mkm" text="Sword and Shield Training" />
-    <string id="axnDLcDA" text="Talk to the headman" />
-    <string id="B7WlM3CU" text="You should purchase supplies from the settlement menu on the left." />
+    <string id="atWs6mkm" text="Formation à l'épée et au bouclier" />
+    <string id="axnDLcDA" text="Parler au chef" />
+    <string id="B7WlM3CU" text="Vous devez acheter des fournitures dans le menu à gauche." />
     <string id="C8NDynaB" text="Niasen" />
     <string id="CaCfbRJq" text="Nozhon" />
     <string id="CONYULU6" text="Phasos" />
-    <string id="CpKLau15" text="Your brother recommends that you purchase 2 sacks of grain.{newline}{newline}You can do this by transferring them to your inventory with the little arrow on the left side" />
-    <string id="cZsPNpCs" text="Buying Food" />
-    <string id="d0LpBfis" text="Crossbow Training" />
-    <string id="D0SoDPcr" text="Advanced Melee Training" />
-    <string id="ddoD208G" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Click on some troops to move them into your party." />
+    <string id="CpKLau15" text="Votre frère vous recommande d'acheter 2 sacs de céréales.{newline}{newline}Vous pouvez le faire en les transférant dans votre inventaire à l'aide de la petite flèche sur le côté gauche" />
+    <string id="cZsPNpCs" text="Acheter de la nourriture" />
+    <string id="d0LpBfis" text="Formation à l'arbalète" />
+    <string id="D0SoDPcr" text="Formation avancée de combat en mêlée" />
+    <string id="ddoD208G" text="Les notables vous aident à recruter des troupes plus nombreuses et de meilleure qualité (niveau supérieur) en fonction de votre relation avec elles.{newline}{newline}Cliquez sur quelques unités pour les faire entrer dans votre groupe." />
     <string id="DELVwiEM" text="Tira" />
     <string id="dFpNRB1g" text="Nogand" />
-    <string id="eFc6YuzQ" text="To leave a mission, you can hold down the &quot;Tab&quot; key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits." />
+    <string id="eFc6YuzQ" text="Pour quitter une mission, vous pouvez maintenir la touche &quot;Tab&quot;.{newline}{newline}Cela vous ramènera au menu de la communauté où vous pourrez acheter des fournitures et embaucher des recrues." />
     <string id="EhELIf65" text="Teruin" />
-    <string id="elRQHiLR" text="Mounted Sword Training" />
-    <string id="f6xYa3c4" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with WASD, panning your view by right clicking and dragging your mouse and zooming in and out with the mouse wheel.{newline}{newline}Give it a try." />
-    <string id="FFP17aSl" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the movement orders with &quot;F1&quot; and choosing &quot;Follow Me&quot; with &quot;F2&quot;." />
-    <string id="fpdXZ0fl" text="Recruitment" />
+    <string id="elRQHiLR" text="Formation à l'épée à cheval" />
+    <string id="f6xYa3c4" text="Bienvenue à Calradia !{newline}{newline}Vous pouvez explorer la carte du monde en déplaçant la caméra avec le QZSD, en faisant un panoramique en cliquant avec le bouton droit de la souris et en faisant un zoom avant et arrière avec la molette de la souris.{newline}{newline}Faites un essai." />
+    <string id="FFP17aSl" text="Au début d'une bataille, vos soldats tiennent leur position. Vous pouvez leur dire de charger en ouvrant les ordres de mouvement à l'aide de la touche &quot;F1&quot; et de choisir&quot;Follow Me&quot; avec la touche &quot;F2&quot;." />
+    <string id="fpdXZ0fl" text="Recrutement" />
     <string id="GCqWwDWg" text="Baladir" />
-    <string id="GjGF4xbn" text="Shield Training" />
-    <string id="gUvxp8mf" text="Bow Training" />
+    <string id="GjGF4xbn" text="Formation au bouclier" />
+    <string id="gUvxp8mf" text="Formation à l'arc" />
     <string id="IcBq2jSZ" text="Aitheen" />
-    <string id="Il7C9LQG" text="You can move your character:{newline}- Forwards with [W]{newline}- Backwards with [S]{newline}- Left with [A]{newline}- Right with [D]{newline}{newline}Try them all now!" />
+    <string id="Il7C9LQG" text="Vous pouvez déplacer votre personnage:{newline}- Avancer avec [Z]{newline}- Reculer avec [S]{newline}- Touner à gauche avec [Q]{newline}- Tourner à droite avec [D]{newline}{newline}Essayez-les tous, maintenant !" />
     <string id="JDtbzwB0" text="Nusun" />
-    <string id="jLWPSiOR" text="Speak to the Headman" />
-    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL}))" />
-    <string id="K0f6WLjV" text="To leave a mission, you can hold down the Tab key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits." />
-    <string id="KiJd6Xik" text="Movement" />
-    <string id="KUEHAD4U" text="Quests" />
-    <string id="kwW6v202" text="Go to shooting position." />
-    <string id="L0tOoWpV" text="Go to normal trainer" />
-    <string id="L24eYhaX" text="Mount the horse" />
-    <string id="LGuJctoZ" text="Attack to trainer ({HIT} / {ALL})" />
-    <string id="lN1RQ260" text="Shoot targets ({HIT} / {ALL})" />
-    <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him." />
+    <string id="jLWPSiOR" text="Parler au chef" />
+    <string id="jWvle1tC" text="Terminez le tracé et touchez le plus grand nombre de cibles possible. ({HIT} / {ALL}))" />
+    <string id="K0f6WLjV" text="Pour quitter une mission, vous pouvez maintenir la touche Tab enfoncée.{newline}{newline}Cela vous ramènera au menu de la communauté où vous pourrez acheter des fournitures et embaucher des recrues." />
+    <string id="KiJd6Xik" text="Mouvement" />
+    <string id="KUEHAD4U" text="Quêtes" />
+    <string id="kwW6v202" text="Allez à la position de tir." />
+    <string id="L0tOoWpV" text="Aller voir le formateur" />
+    <string id="L24eYhaX" text="Monter à cheval" />
+    <string id="LGuJctoZ" text="Attaquer le formateur ({HIT} / {ALL})" />
+    <string id="lN1RQ260" text="Tirer sur les cibles ({HIT} / {ALL})" />
+    <string id="LS1whiyj" text="Le menu en haut à droite indique les personnes importantes dans votre lieu actuel.{newline}{newline}Cliquez sur le portrait du chef pour lui parler." />
     <string id="m2uEbrkh" text="Najun" />
-    <string id="mfugkRoz" text="Hideouts &amp; Orders" />
+    <string id="mfugkRoz" text="Cachettes &amp; Ordres#" />
     <string id="MgBazeaE" text="Alte" />
-    <string id="MqeQco4z" text="Mounted Spear Training" />
-    <string id="MUEaqlix" text="Beat veteran trainer" />
+    <string id="MqeQco4z" text="Formation à la lance à cheval" />
+    <string id="MUEaqlix" text="Battre un entraîneur de vétérans" />
     <string id="NWxC3CbS" text="Fodor" />
     <string id="OA9bQ8QJ" text="Alea" />
-    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let’s set off to {TUTORIAL_SETTLEMENT_NAME}!" />
-    <string id="OFNEE8Xr" text="You can tell your men to charge by opening the movement orders with &quot;F1&quot; and choosing charge with &quot;F3&quot;." />
-    <string id="oj7B1GOT" text="Entering Settlements" />
-    <string id="OJmYUcaU" text="With Sword" />
-    <string id="okM9QUFA" text="Javelin Training" />
+    <string id="odbkXZkz" text="Pour se déplacer, il suffit de cliquer sur la carte. Cela laissera une marque sur l'emplacement de la cible - sauf si vous avez cliqué sur des zones inaccessibles telles que la montagne ou la mer.{newline}{newline}Partons pour {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="OFNEE8Xr" text="Vous pouvez dire à vos hommes de charger en ouvrant les ordres de mouvement avec la touche &quot;F1&quot; et en choisissant la charge avec la touche &quot;F3&quot;." />
+    <string id="oj7B1GOT" text="Entrée dans la communauté" />
+    <string id="OJmYUcaU" text="Avec l'épée" />
+    <string id="okM9QUFA" text="Formation au javelot" />
     <string id="opUBnFym" text="Terte" />
-    <string id="P7KbSBvr" text="Mounted Training" />
+    <string id="P7KbSBvr" text="Formation à cheval" />
     <string id="pAf5Mt3X" text="Alishka" />
     <string id="q65JaEBW" text="Alya" />
-    <string id="q71nXdD4" text="Go to trainer" />
-    <string id="QHhdmvLj" text="Combat Training" />
-    <string id="qNrWU4Or" text="Melee Training" />
-    <string id="qXv3BY5v" text="You can hold &quot;Left Alt&quot; key to see the location of the Headman.{newline}{newline}Once you are near him, press F to speak with him." />
+    <string id="q71nXdD4" text="Aller voir formateur" />
+    <string id="QHhdmvLj" text="Entraînement au combat" />
+    <string id="qNrWU4Or" text="Formation au combat de mêlée" />
+    <string id="qXv3BY5v" text="Vous pouvez tenir &quot;Alt&quot; gauche enfoncé pour voir l'emplacement du chef.{newline}{newline}Une fois que vous êtes près de lui, appuyez sur la touche F pour lui parler." />
     <string id="QZHSvGrD" text="Baldrim" />
-    <string id="rLEIuqZO" text="After a hard-fought battle, you may have the choice to take some prisoners or recruit those that you have freed from your enemy.{newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left." />
-    <string id="Rvn8tGB0" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Recruit Troops&quot; button." />
+    <string id="rLEIuqZO" text="Après un combat acharné, vous pouvez avoir le choix de faire quelques prisonniers ou de recruter ceux que vous avez libérés de votre ennemi.{newline}{newline}Les deux options se font en transférant les troupes dans votre groupe à l'aide du petit bouton flèche vers la gauche." />
+    <string id="Rvn8tGB0" text="Votre frère vous a demandé d'engager au moins 4 hommes avant de vous lancer dans l'affrontement avec les pilleurs.{newline}{newline}Vous pouvez engager des troupes venant de villages et des cités en cliquant sur le bouton &quot;Recruter des troupes&quot;." />
     <string id="Sfd3aqia" text="Bandan" />
-    <string id="tZtrK3cs" text="Horse Archery Training" />
-    <string id="uW4htMut" text="With Sword and Shield" />
+    <string id="tZtrK3cs" text="Entraînement au tir à l'arc monté" />
+    <string id="uW4htMut" text="Avec une épée et un bouclier" />
     <string id="w4Ajm40u" text="Faroc" />
-    <string id="WjuwOavt" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Order your troops to follow you with the &quot;F1&quot; and &quot;F2&quot; shortcuts and try to take them on in small groups." />
-    <string id="wq9sNkMc" text="Leaving a Mission" />
+    <string id="WjuwOavt" text="Les missions d'inflitration commencent lorsque l'ennemi n'est pas conscient de votre approche.{newline}{newline}Ordonnez à vos troupes de vous suivre avec les touches &quot;F1&quot; et &quot;F2&quot; et essayer de les affronter en petits groupes." />
+    <string id="wq9sNkMc" text="Quitter la mission" />
     <string id="WTF4ZIe7" text="Jatu" />
     <string id="x4xx1Zd6" text="Battle Commands" />
     <string id="X7Xp9xGe" text="Tertha" />
-    <string id="xCHBC7S9" text="Click on the &quot;Talk&quot; button to return to the notable and learn more about the task ahead." />
-    <string id="Xr50xGhr" text=" ({TIME_SCORE} seconds)" />
+    <string id="xCHBC7S9" text="Cliquez sur le bouton &quot;Parler&quot; pour revenir à l'essentiel et en savoir plus sur la tâche qui nous attend." />
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} secondes)" />
     <string id="XsIq2RFs" text="Baldim" />
-    <string id="yCEMiKjB" text="Choose your {SELECTION}" />
+    <string id="yCEMiKjB" text="Choisissez votre {SELECTION}" />
     <string id="yvdQ9MD6" text="Terea" />
     <string id="Z33uQl2f" text="Tarya" />
-    <string id="z9eC5hjv" text="With Spear and Shield" />
-    <string id="ZozwfwVl" text="Defend yourself ({HIT} / {ALL})" />
-    <string id="ZW9OGfEt" text="Rescuing &amp; Taking Prisoners" />
+    <string id="z9eC5hjv" text="Avec une lance et un bouclier" />
+    <string id="ZozwfwVl" text="Se défendre ({HIT} / {ALL})" />
+    <string id="ZW9OGfEt" text="Secourir &amp; les prisonniers" />
   </strings>
 </base>
